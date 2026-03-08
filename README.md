@@ -11,7 +11,7 @@ Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran pegawai deng
 ---
 ## Table of Content
 - [Tujuan Projek](#-tujuan-projek-)
-- [What's New?](#-update-dokumentasi-)
+- [What's New?](#-whats-new-)
 - [Feature](#-feature-under-development-)
 - [Upcoming Feature](#-upcoming-feature-)
 - [Teknologi Yang Digunakan](#-teknologi-yang-digunakan)
