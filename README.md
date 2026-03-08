@@ -71,8 +71,8 @@ Progres pengembangan proyek ini didokumentasikan melalui GitHub Issues.
 
 Beberapa tahapan yang telah dicatat antara lain:
 
-- [Inisialisasi proyek dan prototype awal](https://github.com/mhmdfiqriii/GoMob/issues/1)
-- [Migrasi dari Web App ke React Native](https://github.com/mhmdfiqriii/GoMob/issues/2)
+1. [Inisialisasi proyek dan prototype awal](https://github.com/mhmdfiqriii/GoMob/issues/1)
+2. [Migrasi dari Web App ke React Native](https://github.com/mhmdfiqriii/GoMob/issues/2)
 
 Silakan lihat bagian Issues untuk melihat perkembangan proyek secara lebih detail.
 
