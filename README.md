@@ -1,4 +1,4 @@
-<img src="icon/gomob-banner.png" align="center"/>
+<img src="icon/icon.png" align="center"/>
 
 # GoMob
 
