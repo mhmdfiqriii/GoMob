@@ -6,7 +6,7 @@ GoMob adalah projek pengembangan sistem absensi berbasis lokasi yang dibuat meng
 Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran pegawai dengan memanfaatkan fitur perangkat mobile seperti GPS dan kamera.
 
 > [!IMPORTANT]
-> 🚧 Projek ini masih berada dalam tahap pengembangan aktif dan terus dikembangkan secara bertahap.
+> 🚧 Projek ini masih berada dalam tahap pengembangan aktif dan terus dikembangkan secara bertahap. Progres pengembangan GoMob didokumentasikan melalui [GitHub Issues](https://github.com/mhmdfiqriii/GoMob/issues?q=is%3Aissue%20state%3Aclosed).
 
 ---
 ## Table of Content
@@ -14,8 +14,6 @@ Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran pegawai deng
 - [Feature](#-feature-under-development-)
 - [Upcoming Feature](#-upcoming-feature-)
 - [Teknologi Yang Digunakan](#-teknologi-yang-digunakan)
-- [Development Progress](#-development-progress-)
-- [Status Projek](#-status-projek-)
 - [Catatan](#-catatan-)
 
 ---
@@ -54,6 +52,7 @@ Pengembangan berikutnya akan mencakup:
 - Penyempurnaan UI/UX aplikasi
 
 ---
+
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyd3R6ZjgzZGJhMHB6ZmQ4M3NpcGdjcnc3d2IxbTZmOHB4anY3MTJvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="35"><b> Teknologi Yang Digunakan</b>
 
 - React Native
@@ -62,27 +61,6 @@ Pengembangan berikutnya akan mencakup:
 - Geolocation Service
 - Google Maps SDK
 - Firebase (planned)
-
----
-
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2lwcThycGVkd2VqcXJwa3hwZWhiY3YxZnJjbWl4Z3RodTZ3d29xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNcQIDsw0nGRrbillJ/giphy.gif" width="35"><b> Development Progress </b>
-
-Progres pengembangan proyek ini didokumentasikan melalui GitHub Issues.
-
-Beberapa tahapan yang telah dicatat antara lain:
-
-1. [Inisialisasi proyek dan prototype awal](https://github.com/mhmdfiqriii/GoMob/issues/1)
-2. [Migrasi dari Web App ke React Native](https://github.com/mhmdfiqriii/GoMob/issues/2)
-
-Silakan lihat bagian Issues untuk melihat perkembangan proyek secara lebih detail.
-
----
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOW9ic3Y4enNibHllN2w1cmtrN2VtZnRscmViY2hqazZ2eTR3NzF0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" width="35"><b> Status Projek </b>
-
-Project Status: In Development
-
-Aplikasi masih dalam tahap pengembangan dan penyempurnaan fitur.
 
 ---
 
