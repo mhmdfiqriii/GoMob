@@ -10,11 +10,11 @@ Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran pegawai deng
 
 ---
 ## Table of Content
-- [Tujuan Projek](#-tujuan-projek)
-- [Current Feature](#-current-feature)
-- [Upcoming Feature](#-upcoming-feature)
+- [Tujuan Projek](#-tujuan-projek-)
+- [Feature](#-feature-under-development-)
+- [Upcoming Feature](#-upcoming-feature-)
 - [Teknologi Yang Digunakan](#-teknokogi-yang-digunakan)
-- [Development Progress](#-development-progress)
+- [Development Progress](#-development-progress-)
 - [Status Projek](#status-projek)
 - [Catatan](#-catatan)
 
@@ -30,7 +30,7 @@ Proyek ini dimulai dengan selintas ide untuk membuat sistem absensi pegawai inte
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyemtrM3Aya3Vva3J2djE4MXg4YWVienV0ZW55MG43YzZyNzgydnlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHTwI4ekNvngByz81H/giphy.gif" width="35"><b1> Fitur (Current Development) </b1>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyemtrM3Aya3Vva3J2djE4MXg4YWVienV0ZW55MG43YzZyNzgydnlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHTwI4ekNvngByz81H/giphy.gif" width="35"><b1> Feature (Under Development) </b1>
 
 Beberapa fitur yang sedang dan telah dikembangkan:
 
@@ -43,7 +43,7 @@ Beberapa fitur yang sedang dan telah dikembangkan:
 - Pencatatan waktu absensi
 
 ---
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3hwZmdnM2lvNnB1anFsdmlwMGJzZ3BoZmlmcnNkYXlkajZsY2poaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8rxZH89hFaZ0NNKGe/giphy.gif" width="35"><b> Fitur yang Direncanakan </b>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3hwZmdnM2lvNnB1anFsdmlwMGJzZ3BoZmlmcnNkYXlkajZsY2poaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8rxZH89hFaZ0NNKGe/giphy.gif" width="35"><b> Upcoming Feature </b>
 
 Pengembangan berikutnya akan mencakup:
 
