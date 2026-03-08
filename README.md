@@ -11,10 +11,11 @@ Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran pegawai deng
 ---
 ## Table of Content
 - [Tujuan Projek](#-tujuan-projek-)
+- [What's New?](#-update-dokumentasi-)
 - [Feature](#-feature-under-development-)
 - [Upcoming Feature](#-upcoming-feature-)
 - [Teknologi Yang Digunakan](#-teknologi-yang-digunakan)
-- [Catatan](#-catatan-)
+
 
 ---
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeHU1MG5jMHMzZDhpNjdmdTl6OWppeHY1d3R3NHljcnR6ZGttczRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12FBrUdUj7ZkuzyI8G/giphy.gif" width="35"><b> Tujuan Projek </b>
@@ -25,6 +26,21 @@ Proyek ini dimulai dengan selintas ide untuk membuat sistem absensi pegawai inte
 - Memiliki validasi lokasi berbasis GPS
 - Mengurangi potensi manipulasi absensi
 - Mempermudah monitoring kehadiran pegawai
+
+---
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHdodXpubGloMXlnejk3eHJ4ZzhlMmN6dXdwMWpyOGFmdHJiZDlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TEPHUoXjs51faAs2ZP/giphy.gif" width="35"><b> What's New? </b>
+
+Proyek ini masih dalam tahap pengembangan aktif. Dokumentasi lengkap mengenai proses pengembangan, perubahan arsitektur, serta progres fitur dapat dilihat pada halaman issue berikut:
+
+📌 Development Log :
+[#2 - Migration from Web App to React Native](https://github.com/mhmdfiqriii/GoMob/issues/2)
+
+Beberapa komponen dasar yang telah disiapkan:
+
+- Sistem login
+- Halaman absensi (masuk & pulang)
+- Integrasi GPS dan peta
+- Persiapan Firebase
 
 ---
 
@@ -61,9 +77,3 @@ Pengembangan berikutnya akan mencakup:
 - Geolocation Service
 - Google Maps SDK
 - Firebase (planned)
-
----
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHdodXpubGloMXlnejk3eHJ4ZzhlMmN6dXdwMWpyOGFmdHJiZDlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TEPHUoXjs51faAs2ZP/giphy.gif" width="35"><b> Catatan </b>
-
-GoMob merupakan proyek pengembangan aplikasi mobile yang berfokus pada sistem absensi berbasis lokasi dan eksplorasi integrasi fitur perangkat mobile seperti GPS dan kamera.
