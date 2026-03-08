@@ -15,7 +15,7 @@ Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran pegawai deng
 - [Upcoming Feature](#-upcoming-feature-)
 - [Teknologi Yang Digunakan](#-teknokogi-yang-digunakan-)
 - [Development Progress](#-development-progress-)
-- [Status Projek](#status-projek-)
+- [Status Projek](#-status-projek-)
 - [Catatan](#-catatan-)
 
 ---
