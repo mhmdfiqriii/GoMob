@@ -28,7 +28,7 @@ Proyek ini dimulai dengan selintas ide untuk membuat sistem absensi pegawai inte
 - Mempermudah monitoring kehadiran pegawai
 
 ---
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHdodXpubGloMXlnejk3eHJ4ZzhlMmN6dXdwMWpyOGFmdHJiZDlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TEPHUoXjs51faAs2ZP/giphy.gif" width="35"><b> What's New? </b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyczRiYmlwMjd1bTZraWZtMjRzeXNvOWY3c3dyNXBuejhsN2k4dWZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hi9hXl6sT2HpSDMlEU/giphy.gif" width="35"><b> What's New? </b>
 
 Proyek ini masih dalam tahap pengembangan aktif. Dokumentasi lengkap mengenai proses pengembangan, perubahan arsitektur, serta progres fitur dapat dilihat pada halaman issue berikut:
 
